@@ -17,7 +17,7 @@ The data has been taken from Keras CIFAR-10 dataset. Explanation:
 
 6. Compiling the Model and Evaluating the Data
 
-7. The Accuracy Score of Model is 75.9 %
+7. The Accuracy Score of Model is 81.66 %
 
 ![Accuracy](https://github.com/prabhdeepsingh3499/cifar_10/blob/master/img/Accuracy.png?raw=True)
 
